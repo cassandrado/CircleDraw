@@ -23,9 +23,10 @@ public class Drawing extends Canvas {
         setSize(400, 400);		// Sets the Canvas size to be the same as the frame
     }
     public void paint(Graphics g){
-        Circle c1 = new Circle(p,c, 30);
+        Circle c1 = new Circle(p,c, 60);
+        Rect r1 = new Rect(p,c,40,60);
         c1.draw(g);
-        //had to create object c1 to call draw bc public
+        g.fillRect(50,100,40, 60);
     }
 }
 

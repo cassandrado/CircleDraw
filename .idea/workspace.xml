@@ -7,7 +7,6 @@
     <list default="true" id="039c169e-5aa6-4aef-8590-8e59ade8e327" name="Changes" comment="week2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666108886075</updated>
       <workItem from="1666108887672" duration="7000" />
-      <workItem from="1666108911370" duration="3971000" />
+      <workItem from="1666108911370" duration="5148000" />
     </task>
     <task id="LOCAL-00001" summary="week2">
       <created>1666112069666</created>
@@ -158,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666112157825</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="week2">
+      <created>1666175014744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666175014744</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
