@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="039c169e-5aa6-4aef-8590-8e59ade8e327" name="Changes" comment="week2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Drawing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rect.java" afterDir="false" />
     </list>
@@ -82,6 +85,11 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager" selected="Gradle.CircleDraw [run]">
     <configuration name="CircleDraw [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -141,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666108886075</updated>
       <workItem from="1666108887672" duration="7000" />
-      <workItem from="1666108911370" duration="5148000" />
+      <workItem from="1666108911370" duration="7826000" />
     </task>
     <task id="LOCAL-00001" summary="week2">
       <created>1666112069666</created>
@@ -164,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666175014744</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="week2">
+      <created>1666176448989</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666176448989</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
