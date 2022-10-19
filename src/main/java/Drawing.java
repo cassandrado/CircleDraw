@@ -25,6 +25,7 @@ public class Drawing extends Canvas {
     public void paint(Graphics g){
         Circle c1 = new Circle(p,c, 30);
         c1.draw(g);
+        //had to create object c1 to call draw bc public
     }
 }
 
